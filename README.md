@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/dewatha/wedding-invitation
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Merge Test
+
+1. Actually no. 1
+2. Actually no. 3
+3. Actually no. 4 [**with link**](https://www.google.com/)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
