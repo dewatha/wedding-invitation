@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages Test 2
+## Welcome to GitHub Pages Test Main Branch
 
 You can use the [editor on GitHub](https://github.com/dewatha/wedding-invitation/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
