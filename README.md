@@ -6,7 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### [Merge Test](#merge-test)
 
-1. Actually no. 2 [_with link_](https://www.google.com/)
+1. Actually no. 1
+2. Actually no. 2 [_with link_](https://www.google.com/)
+3. Actually no. 3
+4. Actually no. 4 [**with link**](https://www.google.com/)
 5. Actually no. 5
 
 ### Markdown
